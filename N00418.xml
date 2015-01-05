@@ -120,8 +120,9 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:000519_0000_0FA6B3F14358C020"/>
-            <pb facs="tcp:000519_0001_0FA6B3F207AAF3A0" rendition="simple:additions"/>
+            <pb facs="unknown:000519_0000_0FA6B3F14358C020"/>
+            <pb facs="unknown:000519_0001_0FA6B3F207AAF3A0"
+                rendition="simple:additions"/>
             <head>Anno Regni Regis &amp; <hi>REGINAE Gulielmi</hi> &amp; <hi>MARIAE</hi> Secundo.</head>
             <byline>BY THE <hi>GOVERNOUR,</hi> &amp; <hi>COUNCIL.</hi>
             </byline>
